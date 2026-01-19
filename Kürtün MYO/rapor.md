@@ -1,6 +1,6 @@
-# Kelkit Sema Doğan SHMYO - Değişiklik Talepleri
+# Kürtün MYO - Değişiklik Talepleri
 
-**Birim:** Kelkit Sema Doğan Sağlık Hizmetleri Meslek Yüksekokulu (SHMYO)
+**Birim:** Kürtün Meslek Yüksekokulu 
 **Konu:** Öğretim Üyeliğine Yükseltilme ve Atanma Yönergesi Değerlendirmesi
 
 ---
@@ -9,11 +9,7 @@
 
 | Mevcut Durum | Önerilen Değişiklik |
 | --- | --- |
-| Dr. Öğr. Üyesi: 60 Puan | 55 Puan olarak belirlenmelidir. |
-| Doçent: 65 Puan | 55 Puan olarak belirlenmelidir. |
-| Profesör: 65 Puan | 55 Puan olarak belirlenmelidir. |
-
-**Gerekçe:** Dil barajının adaylar üzerindeki engelleyici etkisinin azaltılması ve diğer üniversite kriterleriyle uyum sağlanması amaçlanmaktadır.
+| Belirtilmemiş (?) | - |
 
 ---
 
@@ -21,13 +17,13 @@
 
 | Mevcut Durum | Önerilen Değişiklik |
 | --- | --- |
-| Q1 Kategorisi: 30 Puan | 45 Puan seviyesine çıkarılmalıdır. |
-| TR Dizin: 10 Puan | 15 Puan seviyesine çıkarılmalıdır. |
-| Uluslararası Bildiri: 6 Puan | 12 Puan seviyesine çıkarılmalıdır. |
-| Ortak Çalışma (3. isim): %60 Katkı | %75 Katkı oranına yükseltilmelidir. |
-| Başlıca Yazar Tanımı | 10+ makalesi olan ve son sırada yer alan "Senyör Yazar" tanımı eklenmelidir. |
+| Profesörlük sürekliliği için ÜAK kriterleri şartı 
 
-**Gerekçe:** Gümüşhane Üniversitesi'nin yayın puanlarının Karadeniz Teknik Üniversitesi (KTÜ) gibi köklü kurumların gerisinde kalması ve akademik emeğin daha adil değerlendirilmesi gerekliliği.
+ | Profesörlük unvanı alındıktan sonra her yıl için en az 1 SCI kapsamında yayın şartı getirilebilir.
+
+ |
+
+**Gerekçe:** Profesörlerin akademik üretkenliğini koruması için daha spesifik ve sürdürülebilir bir kriter önerilmektedir.
 
 ---
 
@@ -35,34 +31,44 @@
 
 | Mevcut Durum | Önerilen Değişiklik |
 | --- | --- |
-| Dr. Öğr. Üyesi Yeniden Atanma: 85 Puan | 40 Puan seviyesine (KTÜ örneğindeki gibi) düşürülmelidir. |
-| Öğr. Gör. Süre Uzatımı: Sadece A, B, C kategorileri | Eğitim-öğretim dahil tüm kategorilerden puan toplanabilmelidir. |
-| Sağlık Bilimleri Asgari Şartları | İdari görev puanları asgari puanlara dahil edilebilmeli ve C kategorisi (Kitap) eklenmelidir. |
+| Doktor Öğretim Üyesi yeniden atanma koşulları 
 
-**Gerekçe:** Yeniden atanma puanlarının "işini kaybetme" riski oluşturacak kadar yüksek olması ve MYO'lardaki yoğun ders yükü nedeniyle yayın odaklı puan toplamanın zorluğu.
+ | Toplanan puana göre kademeli süre uzatımı uygulanmalıdır.
+
+ |
+
+**Gerekçe:** Performansa dayalı bir teşvik sistemi oluşturulması amaçlanmaktadır. Önerilen kademeler şu şekildedir:
+
+* 
+**Asgari puan şartını sağlayanlar:** 2 yıl yeniden atama.
+
+
+* 
+**Asgari puanın 2 katını sağlayanlar:** 3 yıl yeniden atama.
+
+
+* 
+**Asgari puanın 3 katı ve üzerini sağlayanlar:** 4 yıl yeniden atama.
+
+
 
 ---
 
-## 4. ATIF DEĞİŞİKLİKLERİ
-
-Belgede atıf kategorisi için spesifik bir puan değişim tablosu sunulmamıştır ancak genel yayın puanlarının artırılması talebi bu alanı da kapsamaktadır.
-
----
-
-## 5. PROJE DEĞİŞİKLİKLERİ
+## 6. EDİTÖRLÜK, HAKEMLİK VE ÖDÜL DEĞİŞİKLİKLERİ
 
 | Mevcut Durum | Önerilen Değişiklik |
 | --- | --- |
-| Yeniden Atanma Proje Şartı: 15 Puan | Zorunluluk kaldırılmalı veya projelere verilen puanlar yükseltilmelidir. |
-| Araştırmacı Puanı | Projede görev alan araştırmacıların katkıları da adil şekilde puanlanmalıdır. |
+| ULAKBİM hakemliği puanlanmıyor | ULAKBİM tarafından taranan ulusal dergilerde yapılan hakemlikler puanlamaya dahil edilmelidir.
 
-**Gerekçe:** Mevcut proje puanlama sisteminde araştırmacıların emeğinin tam yansımaması ve TÜBİTAK 1002/2209 gibi projelerin puan şartlarını karşılamada yetersiz kalması.
+ |
+| Doktora tezi jüri üyeliği eksik | Doktora tezi jüri üyeliği faaliyetleri puanlama cetveline eklenmelidir.
 
----
+ |
+| Akademik teşvik ödülü belirsiz | Alınan her yıl için akademik teşvik ödülü puanlamaya dahil edilmelidir.
 
-## 6. EDİTÖRLÜK VE HAKEMLİK DEĞİŞİKLİKLERİ
+ |
 
-Belgede editörlük ve hakemlik için özel bir puan tablosu belirtilmemiştir; ancak Öğretim Görevlileri için "tüm kategorilerin puanlamaya dahil edilmesi" önerisi bu alanı da desteklemektedir.
+**Gerekçe:** Akademik süreçlere katkı sağlayan hakemlik, jüri üyeliği ve ödül gibi faaliyetlerin görünürlüğünün artırılması ve emeğin karşılık bulması hedeflenmektedir.
 
 ---
 
@@ -70,11 +76,13 @@ Belgede editörlük ve hakemlik için özel bir puan tablosu belirtilmemiştir; 
 
 | Mevcut Durum | Önerilen Değişiklik |
 | --- | --- |
-| Yönerge Yürürlük Tarihi: 01/05/2027 | 01/01/2029 tarihine ertelenmelidir. |
-| MYO ve Fakülte Ayrımı | MYO'ların uygulama ağırlıklı misyonu ve ders yükü gözetilerek farklı kriterler belirlenmelidir. |
-| Sosyal ve Eğitim Bilimleri Kriterleri | Q sınıflandırması yerine alan indeksleri ve dergi itibarı esas alınmalıdır. |
+| <br>**Madde 13-(2):** Profesörlerin 5 yılda bir ÜAK kriterlerini sağlaması 
 
-**Gerekçe:** Mevcut akademik planlamaların bozulmaması için yeterli geçiş süresi tanınması ve birimler arası yapısal farklılıkların (ders yükü, uygulama imkanları) gözetilmesi gerekliliği.
+ | Profesörlük unvanını almış hocalardan bu şartın istenmesi uygulamadan kaldırılmalıdır.
+
+ |
+
+**Gerekçe:** Karadeniz Teknik Üniversitesi (KTÜ) gibi köklü araştırma üniversitelerinde dahi böyle bir uygulamanın bulunmaması örnek gösterilmiş; bu şartın personeli farklı üniversitelere gitmeye sevk edebileceği uyarısı yapılmıştır.
 
 ---
 
@@ -82,8 +90,8 @@ Belgede editörlük ve hakemlik için özel bir puan tablosu belirtilmemiştir; 
 
 | Kategori | Değişiklik Sayısı |
 | --- | --- |
-| Yabancı Dil Puanı | 3 |
-| Yayın Puanı | 8 |
-| Asgari Puan | 3 |
-| Proje Değişiklikleri | 3 |
-| Usul ve Süre | 4 |
+| Yayın Puanı | 1 |
+| Asgari Puan | 1 |
+| Editörlük ve Hakemlik | 2 |
+| Ödüller | 1 |
+| Usul ve Süre | 1 |
