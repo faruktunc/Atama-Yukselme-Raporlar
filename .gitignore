@@ -1,0 +1,20 @@
+# PDF dosyaları
+*.pdf
+*.PDF
+
+# Word dosyaları
+*.docx
+*.DOCX
+*.doc
+*.DOC
+
+# Claude ile ilgili dosyalar
+.claude/
+CLAUDE.md
+.claudeignore
+Claude_Genel_Prompt.md
+
+# Diğer
+*.tmp
+*.bak
+~$*
