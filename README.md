@@ -1,6 +1,6 @@
-# Öğretim Üyeliğine Yükseltilme ve Atanma Yönergesi - Değişiklik Talepleri Analizi
+# Yükseltilme ve Atanma Yönergesi - Değişiklik Talepleri Analizi
 
-Bu rapor, Gümüşhane Üniversitesi'nin çeşitli akademik birimlerinden toplanan **Öğretim Üyeliğine Yükseltilme ve Atanma Yönergesi** değişiklik taleplerinin kapsamlı bir analizini sunmaktadır.
+Bu rapor, Gümüşhane Üniversitesi'nin çeşitli akademik birimlerinden toplanan **Yükseltilme ve Atanma Yönergesi** değişiklik taleplerinin kapsamlı bir analizini sunmaktadır.
 
 ---
 
